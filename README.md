@@ -8,3 +8,6 @@ colab link 👉[https://colab.research.google.com/drive/1fkAsnTQAU0DKx5SdL5mVlPM
 
 🚀**Step 02_lists completed**
 colab link 👉[https://colab.research.google.com/drive/1i4zMNT7Z4lK7N2sM5a9HBLUbI4l8HEjZ?usp=sharing]
+
+🚀**03_if_statements completed**
+colab link 👉[https://colab.research.google.com/drive/1sIjQoIoFrwhFOLPxlTV1wkcsvkdI6MTL?usp=sharing]
