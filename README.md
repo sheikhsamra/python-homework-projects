@@ -17,3 +17,7 @@ colab link 👉 [https://colab.research.google.com/drive/1iuIBiXtLJHFGt9cqeHOXXd
 
 🚀**05_loops_control_flow**
 colab link 👉 [https://colab.research.google.com/drive/1xZuDVAxUH9lzXQZmkGZrMSUWZGU53sZp?usp=sharing]
+
+
+**06_functions completed**
+colab link 👉 [https://colab.research.google.com/drive/1yjnn1ozJhHQFL7hqZIaPSJEnlpucQZKL?usp=sharing]
